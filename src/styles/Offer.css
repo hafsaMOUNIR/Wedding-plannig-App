@@ -1,0 +1,95 @@
+.Offer{
+    /* flex:1; */
+    padding-top: 90px;
+    height: 95vh;;
+    /* color:rgb(180, 179, 179); */
+    display: flex;
+}
+.element {
+    display: flex;
+    margin:50px;
+    margin-left: 250px;
+}
+/* .input{
+    margin-left: 50px;
+} */
+.btn{
+    margin-left: 690px ;
+    width: 200px;
+   
+    color: #d4b56b !important ;
+    background-color: #191919 !important;
+    font-weight: 800;
+    margin-bottom: 0px;
+    margin-top: 40px !important;
+    /* margin-left: 100px !important; */
+    font-weight: 900 !important;
+    
+}
+/* .MuiButtonBase-root{
+    width: 200px;
+   
+    color: #d4b56b !important ;
+    background-color: #191919 !important;
+    font-weight: 800;
+    margin-bottom: 50px;
+    margin-top: 40px !important;
+    
+    font-weight: 900 !important;
+  
+    
+  } */
+
+  /* .MuiButtonBase-root:hover{
+    color: #ffffff !important;
+    background-color: #d4b56b !important;
+  } */
+.inputI{
+    margin-left:103px ;
+}
+.inputD{
+    margin-left:49px ;
+    
+}
+.inputP{
+    margin-left:160px ;
+    
+}
+.label{
+    margin-top: 30px;
+    margin-left: 545px;
+}
+.services{
+    margin-top: 30px;
+    margin-left: 20px;
+}
+.villes{
+    margin-left:60px;
+}
+.welcomeOffer{
+    
+    margin-top: 170px;
+    width: 28%;
+    height: 20vh;
+    background-color: #191919;
+    color: #f0eee9;
+    border-radius: 3%;
+    margin-left: 0px;
+  }
+  .welcomeOffer>p{
+    padding:20px;
+    
+    font-size:21px;
+    /* font-weight: bold; */
+  }
+
+.offerForm{
+    width: 70%;
+}
+.Alf{
+    color:#d4b56b;
+  }
+
+.alfmbrk{
+    color: #d4b56b;
+}
